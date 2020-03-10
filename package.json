@@ -1,22 +1,23 @@
 {
-  "name": "gulp",
+  "name": "gulp_basics",
   "version": "1.0.0",
-  "description": "Gulp es una herramienta desarrollada mediante NodeJS que te ayuda a automatizar tareas tales como compilar diferentes lenguajes, minificar código, auto-refrescar el navegador cuando modificas tu código, validar sintaxis, comprimir ficheros, crear automatizaciones personalizadas",
+  "description": "Learn the Gulp Basics",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Pau111111/Gulp.git"
+    "url": "git+https://github.com/Pau111111/Gulp_Basics.git"
   },
-  "author": "",
+  "author": "Puchu",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Pau111111/Gulp/issues"
+    "url": "https://github.com/Pau111111/Gulp_Basics/issues"
   },
-  "homepage": "https://github.com/Pau111111/Gulp#readme",
+  "homepage": "https://github.com/Pau111111/Gulp_Basics#readme",
   "dependencies": {
+    "gulp": "^4.0.2",
     "gulp-cli": "^2.2.0"
   }
 }
