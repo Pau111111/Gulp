@@ -1,6 +1,6 @@
 # Gulp
 
-Gulp es una herramienta desarrollada mediante NodeJS que te ayuda a automatizar tareas tales como compilar diferentes lenguajes, minificar código, auto-refrescar el navegador cuando modificas tu código, validar sintaxis, comprimir ficheros, crear automatizaciones personalizadas
+Gulp es una herramienta desarrollada mediante NodeJS que te ayuda a automatizar tareas tales como compilar diferentes lenguajes, minificar código, auto-refrescar el navegador cuando modificas tu código, validar sintaxis, comprimir ficheros, crear automatizaciones personalizadas.
 
 ## Installation
 
